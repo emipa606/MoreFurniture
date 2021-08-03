@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName = "Bed_Ergonomic"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+    <value>
+      <li>Anon2Dresser</li>
+      <li>Anon2EndTable</li>
+      <li>Anon2RoyalEndTable</li>
+      <li>Anon2EndTableLight</li>
+      <li>Anon2RoyalEndTableLight</li>
+      <li>Table_Wardrobe</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName = "Bed_DoubleErgonomic"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+    <value>
+      <li>Anon2Dresser</li>
+      <li>Anon2EndTable</li>
+      <li>Anon2RoyalEndTable</li>
+      <li>Anon2EndTableLight</li>
+      <li>Anon2RoyalEndTableLight</li>
+      <li>Table_Wardrobe</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName = "Bed_AdvBed"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+    <value>
+      <li>Anon2Dresser</li>
+      <li>Anon2EndTable</li>
+      <li>Anon2RoyalEndTable</li>
+      <li>Anon2EndTableLight</li>
+      <li>Anon2RoyalEndTableLight</li>
+      <li>Table_Wardrobe</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName = "Bed_AdvDoubleBed"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+    <value>
+      <li>Anon2Dresser</li>
+      <li>Anon2EndTable</li>
+      <li>Anon2RoyalEndTable</li>
+      <li>Anon2EndTableLight</li>
+      <li>Anon2RoyalEndTableLight</li>
+      <li>Table_Wardrobe</li>
+    </value>
+  </Operation>
+</Patch>
