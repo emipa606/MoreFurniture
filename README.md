@@ -14,12 +14,22 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2020784345
 
 ![Image](https://i.imgur.com/7Gzt3Rg.png)
 
+
+[table]
+    [tr]
+        [td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
+[/td]
+        [td]https://github.com/emipa606/MoreFurniture]![Image](https://i.imgur.com/kTkpTOE.png)
+[/td]
+    [/tr]
+[/table]
 	
 ![Image](https://i.imgur.com/NOW7jU1.png)
 
 More Furniture is a small mod that adds about a dozen new items into Rimworld. It was created so you&apos;d have more variety when choosing things to fill your colonist&apos;s rooms with. Originally created by Anonemous2, development continued by me. 
 
-ROYALTY PATCH: https://steamcommunity.com/sharedfiles/filedetails/?id=2020784345
+[strike]ROYALTY PATCH: https://steamcommunity.com/sharedfiles/filedetails/?id=2020784345[/strike] 
+No longer needed
 
 
 #  Contains
@@ -45,7 +55,8 @@ More Furniture can be safely added into existing saves, But all new items should
 - Rimkea
 - Vanilla Furniture Expanded
 
-Royalty compatibility patch found here: https://steamcommunity.com/sharedfiles/filedetails/?id=2020784345
+[strike]Royalty compatibility patch found here: https://steamcommunity.com/sharedfiles/filedetails/?id=2020784345[/strike]
+No longer needed
 
 #  Translations
  
