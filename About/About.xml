@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>More Furniture (Continued)</name>
   <packageId>Mlie.MoreFurniture</packageId>
@@ -15,7 +15,7 @@
     <li>VanillaExpanded.VFECore</li>
     <li>spoonshortage.rimkea</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Anonemous2, wofls mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2018490850
 and the Royalty patch
@@ -26,17 +26,21 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2020784345
 - The mods dressers and endtables will link to any bed that the vanilla dresser and endtable links to
 - The mods dressers and endtables will be added to any title-requirement that has the vanilla dresser and endtable
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
     [tr]
         [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
         [td][url=https://github.com/emipa606/MoreFurniture][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
     [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
-More Furniture is a small mod that adds about a dozen new items into Rimworld. It was created so you&apos;d have more variety when choosing things to fill your colonist&apos;s rooms with. Originally created by Anonemous2, development continued by me. 
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
+More Furniture is a small mod that adds about a dozen new items into Rimworld. It was created so you'd have more variety when choosing things to fill your colonist's rooms with. Originally created by Anonemous2, development continued by me. 
 
 [strike]ROYALTY PATCH: https://steamcommunity.com/sharedfiles/filedetails/?id=2020784345[/strike] 
 No longer needed
@@ -70,11 +74,11 @@ No longer needed
 
 Currently supports translations into German, Polish, French, Chinese, and Russian, but if someone requests another language, I can add it in too. (Beware, translations were done with a online translator and maybe abit funky, If you want to help/or comment on a translations, use the Translations discussion.)
 
-[h1] If you&apos;d like to see something added in, feel free to make a suggestion. 
+[h1] If you'd like to see something added in, feel free to make a suggestion. 
 
 If you have any problems, please let me know in the comments.[/h1]
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
