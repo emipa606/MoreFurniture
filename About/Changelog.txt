@@ -1,5 +1,8 @@
 # Changelog for MoreFurniture
 
+1.4.1 - Mod updated for 1.4 and passed autotests
+
+
 1.0.1.0 - Conditional checks for the royalty patches
 
 
