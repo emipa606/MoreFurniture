@@ -26,9 +26,13 @@
     <costList>
       <Cloth>7</Cloth>
     </costList>
+    <tags>
+      <li>Floor</li>
+    </tags>
     <statBases>
       <Beauty>2</Beauty>
       <Flammability>0.32</Flammability>
+      <CleaningTimeFactor>2</CleaningTimeFactor>
     </statBases>
   </TerrainDef>
   <!-- ================= Carpets Bed Green ================= -->
