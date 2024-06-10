@@ -1,58 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!--====================== Furniture Base Defs ======================-->
-  <ThingDef Name="Anon2BuildingBase" Abstract="True">
-    <category>Building</category>
-    <thingClass>Building</thingClass>
-    <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
-    <selectable>true</selectable>
+  <ThingDef Name="Anon2BuildingBase" ParentName="BuildingBase" Abstract="True">
     <drawerType>MapMeshAndRealTime</drawerType>
-    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
-    <repairEffect>Repair</repairEffect>
-    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
-    <filthLeaving>Filth_RubbleBuilding</filthLeaving>
-    <statBases>
-      <SellPriceFactor>0.70</SellPriceFactor>
-    </statBases>
-  </ThingDef>
-  <ThingDef Name="Anon2FurnitureBase" ParentName="Anon2BuildingBase" Abstract="True">
     <designationCategory>ANON2MF</designationCategory>
-    <minifiedDef>MinifiedThing</minifiedDef>
     <tradeTags>
       <li>Furniture</li>
     </tradeTags>
-    <thingCategories>
-      <li>BuildingsFurniture</li>
-    </thingCategories>
   </ThingDef>
-  <ThingDef Name="Anon2FurnitureWithQualityBase" ParentName="Anon2FurnitureBase" Abstract="True">
-    <comps>
-      <li>
-        <compClass>CompQuality</compClass>
-      </li>
-    </comps>
-  </ThingDef>
-  <ThingDef Name="Anon2ArtableFurnitureBase" ParentName="Anon2FurnitureWithQualityBase" Abstract="True">
-    <comps>
-      <li Class="CompProperties_Art">
-        <nameMaker>NamerArtFurniture</nameMaker>
-        <descriptionMaker>ArtDescription_Furniture</descriptionMaker>
-        <minQualityForArtistic>Excellent</minQualityForArtistic>
-      </li>
-    </comps>
-    <inspectorTabs>
-      <li>ITab_Art</li>
-    </inspectorTabs>
-  </ThingDef>
-  <ThingDef Name="Anon2NoCompQualityFurnitureBase" ParentName="Anon2BuildingBase" Abstract="True">
+  <ThingDef Name="Anon2FurnitureBase" ParentName="FurnitureBase" Abstract="True">
     <designationCategory>ANON2MF</designationCategory>
-    <minifiedDef>MinifiedThing</minifiedDef>
     <tradeTags>
       <li>Furniture</li>
     </tradeTags>
-    <thingCategories>
-      <li>BuildingsFurniture</li>
-    </thingCategories>
+  </ThingDef>
+  <ThingDef Name="Anon2FurnitureWithQualityBase" ParentName="FurnitureWithQualityBase" Abstract="True">
+    <drawerType>MapMeshAndRealTime</drawerType>
+    <designationCategory>ANON2MF</designationCategory>
+    <tradeTags>
+      <li>Furniture</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef Name="Anon2ArtableFurnitureBase" ParentName="ArtableFurnitureBase" Abstract="True">
+    <drawerType>MapMeshAndRealTime</drawerType>
+    <designationCategory>ANON2MF</designationCategory>
+    <tradeTags>
+      <li>Furniture</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef Name="Anon2NoCompQualityFurnitureBase" ParentName="FurnitureBase" Abstract="True">
+    <drawerType>MapMeshAndRealTime</drawerType>
+    <designationCategory>ANON2MF</designationCategory>
+    <tradeTags>
+      <li>Furniture</li>
+    </tradeTags>
   </ThingDef>
   <!--============================== Plant Pots ==============================-->
   <!--====================== square plant pot ======================-->
@@ -174,58 +155,18 @@
     <designationCategory>ANON2MF</designationCategory>
   </ThingDef>
   <!--================================ Abstract bases ======================================-->
-  <ThingDef ParentName="Anon2BuildingBase" Name="Anon2SculptureBase2" Abstract="True">
-    <thingClass>Building_Art</thingClass>
+  <ThingDef ParentName="SculptureBase" Name="Anon2SculptureBase2" Abstract="True">
+    <drawerType>MapMeshAndRealTime</drawerType>
+    <designationCategory>ANON2MF</designationCategory>
+    <tradeTags>
+      <li>Furniture</li>
+    </tradeTags>
     <altitudeLayer>Waist</altitudeLayer>
-    <passability>PassThroughOnly</passability>
     <pathCost>70</pathCost>
     <castEdgeShadows>false</castEdgeShadows>
-    <useHitPoints>true</useHitPoints>
     <statBases>
-      <Flammability>1.0</Flammability>
       <SellPriceFactor>1.10</SellPriceFactor>
     </statBases>
-    <comps>
-      <li>
-        <compClass>CompQuality</compClass>
-      </li>
-      <li Class="CompProperties_Art">
-        <nameMaker>NamerArtSculpture</nameMaker>
-        <descriptionMaker>ArtDescription_Sculpture</descriptionMaker>
-        <canBeEnjoyedAsArt>true</canBeEnjoyedAsArt>
-      </li>
-    </comps>
-    <inspectorTabs>
-      <li>ITab_Art</li>
-    </inspectorTabs>
-    <recipeMaker>
-      <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-      <workSkill>Artistic</workSkill>
-      <unfinishedThingDef>UnfinishedSculpture</unfinishedThingDef>
-      <effectWorking>Sculpt</effectWorking>
-      <soundWorking>Recipe_Sculpt</soundWorking>
-      <recipeUsers>
-        <li>TableSculpting</li>
-      </recipeUsers>
-      <defaultIngredientFilter>
-        <categories>
-          <li>Root</li>
-        </categories>
-        <disallowedThingDefs>
-          <li>Gold</li>
-          <li>Silver</li>
-          <li>Plasteel</li>
-          <li>Jade</li>
-          <li>Uranium</li>
-          <li>Steel</li>
-          <li>Marble</li>
-          <li>Slate</li>
-          <li>Sandstone</li>
-          <li>Granite</li>
-          <li>Limestone</li>
-        </disallowedThingDefs>
-      </defaultIngredientFilter>
-    </recipeMaker>
     <thingCategories>
       <li>BuildingsFurniture</li>
     </thingCategories>

@@ -1,61 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  <ThingDef Abstract="True" Name="Anon2LampBase" ParentName="Anon2BuildingBase">
-    <thingClass>Building</thingClass>
-    <category>Building</category>
-    <minifiedDef>MinifiedThing</minifiedDef>
-    <altitudeLayer>Building</altitudeLayer>
-    <passability>PassThroughOnly</passability>
-    <selectable>true</selectable>
-    <fillPercent>0.20</fillPercent>
-    <pathCost>8</pathCost>
-    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
-    <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
-    <designationCategory>Furniture</designationCategory>
-    <rotatable>false</rotatable>
-    <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
-      <shadowData>
-        <volume>(0.3, 0.6, 0.3)</volume>
-        <offset>(0,0,-0.1)</offset>
-      </shadowData>
-      <damageData>
-        <rect>(0.2,0.2,0.6,0.6)</rect>
-      </damageData>
-    </graphicData>
-    <comps>
-      <li Class="CompProperties_Flickable" />
-    </comps>
-    <statBases>
-      <MaxHitPoints>50</MaxHitPoints>
-      <WorkToBuild>170</WorkToBuild>
-      <Flammability>1.0</Flammability>
-    </statBases>
-    <researchPrerequisites>
-      <li>Electricity</li>
-    </researchPrerequisites>
-    <thingCategories>
-      <li>BuildingsFurniture</li>
-    </thingCategories>
-  </ThingDef>
   <!-- ======================== Anon2 Lighting Base ======================= -->
-  <ThingDef Abstract="True" Name="ANON2StandingLampBase" ParentName="Anon2LampBase">
-    <designationCategory>ANON2MF</designationCategory>
+  <ThingDef Abstract="True" Name="ANON2StandingLampBase" ParentName="LampBase">
+    <designationCategory Inherit="False" />
+    <generateCommonality>0</generateCommonality>
     <graphicData>
       <texPath>Things/Building/Furniture/LampStanding</texPath>
     </graphicData>
+    <tradeTags Inherit="False" />
     <costList>
       <Steel>15</Steel>
     </costList>
     <statBases>
       <Mass>4</Mass>
+      <StyleDominance MayRequire="Ludeon.RimWorld.Ideology">5</StyleDominance>
     </statBases>
     <comps>
       <li Class="CompProperties_Power">
         <compClass>CompPowerTrader</compClass>
         <basePowerConsumption>30</basePowerConsumption>
         <shortCircuitInRain>false</shortCircuitInRain>
+        <powerUpgrades>
+          <li>
+            <researchProject>ColoredLights</researchProject>
+            <factor>0.5</factor>
+          </li>
+        </powerUpgrades>
       </li>
+      <li Class="CompProperties_Styleable" />
     </comps>
   </ThingDef>
   <!--====================== end table light ======================-->
@@ -199,7 +171,7 @@
   <!-- ======================== standing lamp (magenta) ======================== -->
   <ThingDef ParentName="ANON2StandingLampBase">
     <defName>StandingLamp_Magenta</defName>
-    <label>standing lamp (magenta)</label>
+    <label>standing lamp (magenta) - LEGACY</label>
     <description>Standing lamp that lights an area in magenta.</description>
     <comps>
       <li Class="CompProperties_Glower">
@@ -207,14 +179,11 @@
         <glowColor>(217,0,217,0)</glowColor>
       </li>
     </comps>
-    <researchPrerequisites>
-      <li>ColoredLights</li>
-    </researchPrerequisites>
   </ThingDef>
   <!-- ======================== standing lamp (yellow) ======================== -->
   <ThingDef ParentName="ANON2StandingLampBase">
     <defName>StandingLamp_Yellow</defName>
-    <label>standing lamp (yellow)</label>
+    <label>standing lamp (yellow) - LEGACY</label>
     <description>Standing lamp that lights an area in yellow.</description>
     <comps>
       <li Class="CompProperties_Glower">
@@ -222,14 +191,11 @@
         <glowColor>(217,217,0,0)</glowColor>
       </li>
     </comps>
-    <researchPrerequisites>
-      <li>ColoredLights</li>
-    </researchPrerequisites>
   </ThingDef>
   <!-- ======================== standing lamp (orange) ======================== -->
   <ThingDef ParentName="ANON2StandingLampBase">
     <defName>StandingLamp_Orange</defName>
-    <label>standing lamp (orange)</label>
+    <label>standing lamp (orange) - LEGACY</label>
     <description>Standing lamp that lights an area in orange.</description>
     <comps>
       <li Class="CompProperties_Glower">
@@ -237,14 +203,11 @@
         <glowColor>(217,117,0,0)</glowColor>
       </li>
     </comps>
-    <researchPrerequisites>
-      <li>ColoredLights</li>
-    </researchPrerequisites>
   </ThingDef>
   <!-- ======================== standing lamp (purple) ======================== -->
   <ThingDef ParentName="ANON2StandingLampBase">
     <defName>StandingLamp_Purple</defName>
-    <label>standing lamp (purple)</label>
+    <label>standing lamp (purple) - LEGACY</label>
     <description>Standing lamp that lights an area in purple.</description>
     <comps>
       <li Class="CompProperties_Glower">
@@ -252,14 +215,11 @@
         <glowColor>(117,0,217,17)</glowColor>
       </li>
     </comps>
-    <researchPrerequisites>
-      <li>ColoredLights</li>
-    </researchPrerequisites>
   </ThingDef>
   <!-- ======================== standing lamp (aqua) ======================== -->
   <ThingDef ParentName="ANON2StandingLampBase">
     <defName>StandingLamp_Aqua</defName>
-    <label>standing lamp (aqua)</label>
+    <label>standing lamp (aqua) - LEGACY</label>
     <description>Standing lamp that lights an area in aqua.</description>
     <comps>
       <li Class="CompProperties_Glower">
@@ -267,14 +227,11 @@
         <glowColor>(40,217,217,0)</glowColor>
       </li>
     </comps>
-    <researchPrerequisites>
-      <li>ColoredLights</li>
-    </researchPrerequisites>
   </ThingDef>
   <!-- ======================== standing lamp (lime) ======================== -->
   <ThingDef ParentName="ANON2StandingLampBase">
     <defName>StandingLamp_Lime</defName>
-    <label>standing lamp (lime)</label>
+    <label>standing lamp (lime) - LEGACY</label>
     <description>Standing lamp that lights an area in lime.</description>
     <comps>
       <li Class="CompProperties_Glower">
@@ -282,8 +239,5 @@
         <glowColor>(137,237,0,0)</glowColor>
       </li>
     </comps>
-    <researchPrerequisites>
-      <li>ColoredLights</li>
-    </researchPrerequisites>
   </ThingDef>
 </Defs>

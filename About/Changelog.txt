@@ -1,5 +1,8 @@
 # Changelog for MoreFurniture
 
+1.5.1 - Fixed the filecabinet counting as a wall. Depricated the colored standing lamps, removed redundant base-defs
+
+
 1.5.0 - Updated for 1.5
 
 
