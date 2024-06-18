@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!--====================== Furniture Base Defs ======================-->
   <ThingDef Name="Anon2BuildingBase" ParentName="BuildingBase" Abstract="True">
@@ -191,7 +191,7 @@
     <fillPercent>0.20</fillPercent>
     <statBases>
       <MaxHitPoints>100</MaxHitPoints>
-      <WorkToMake>11976</WorkToMake>
+      <WorkToBuild>900</WorkToBuild>
       <Mass>2</Mass>
       <Flammability>1.0</Flammability>
       <Beauty>10</Beauty>
@@ -235,7 +235,7 @@
     <fillPercent>0.20</fillPercent>
     <statBases>
       <MaxHitPoints>100</MaxHitPoints>
-      <WorkToMake>11976</WorkToMake>
+      <WorkToBuild>900</WorkToBuild>
       <Mass>2</Mass>
       <Flammability>1.0</Flammability>
       <Beauty>10</Beauty>

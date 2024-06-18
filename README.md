@@ -1,6 +1,7 @@
 # [More Furniture (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2565302299)
 
 ![Image](https://i.imgur.com/buuPQel.png)
+
 Update of Anonemous2, wofls mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2018490850
 and the Royalty patch
@@ -14,9 +15,10 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2020784345
 ![Image](https://i.imgur.com/pufA0kM.png)
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
+
 More Furniture is a small mod that adds about a dozen new items into Rimworld. It was created so you'd have more variety when choosing things to fill your colonist's rooms with. Originally created by Anonemous2, development continued by me. 
 
-[strike]ROYALTY PATCH: https://steamcommunity.com/sharedfiles/filedetails/?id=2020784345[/strike] 
+~~ROYALTY PATCH: https://steamcommunity.com/sharedfiles/filedetails/?id=2020784345~~ 
 No longer needed
 
 
@@ -39,11 +41,11 @@ Four New Carpet Colors to match the default beds
 
 More Furniture can be safely added into existing saves, But all new items should be deleted before disabling the mod. Does not require any other mods to work, and it should be compatible with most other mods.
 
-[u]Patches have been added to make the following mods fully compatible:[/u]
+<ins>Patches have been added to make the following mods fully compatible:</ins>
 - Rimkea
 - Vanilla Furniture Expanded
 
-[strike]Royalty compatibility patch found here: https://steamcommunity.com/sharedfiles/filedetails/?id=2020784345[/strike]
+~~Royalty compatibility patch found here: https://steamcommunity.com/sharedfiles/filedetails/?id=2020784345~~
 No longer needed
 
 #  Translations
@@ -57,6 +59,7 @@ If you have any problems, please let me know in the comments.
 
 
 ![Image](https://i.imgur.com/PwoNOj4.png)
+
 
 
 -  See if the the error persists if you just have this mod and its requirements active.
