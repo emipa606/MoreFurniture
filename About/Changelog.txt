@@ -1,5 +1,8 @@
 # Changelog for MoreFurniture
 
+1.5.3 - Legacy items should no longer spawn for traders.
+
+
 1.5.2 - Fixed work to build values
 
 

@@ -179,6 +179,8 @@
         <glowColor>(217,0,217,0)</glowColor>
       </li>
     </comps>
+    <generateCommonality>0</generateCommonality>
+    <tradeTags Inherit="False" />
   </ThingDef>
   <!-- ======================== standing lamp (yellow) ======================== -->
   <ThingDef ParentName="ANON2StandingLampBase">
@@ -191,6 +193,8 @@
         <glowColor>(217,217,0,0)</glowColor>
       </li>
     </comps>
+    <generateCommonality>0</generateCommonality>
+    <tradeTags Inherit="False" />
   </ThingDef>
   <!-- ======================== standing lamp (orange) ======================== -->
   <ThingDef ParentName="ANON2StandingLampBase">
@@ -203,6 +207,8 @@
         <glowColor>(217,117,0,0)</glowColor>
       </li>
     </comps>
+    <generateCommonality>0</generateCommonality>
+    <tradeTags Inherit="False" />
   </ThingDef>
   <!-- ======================== standing lamp (purple) ======================== -->
   <ThingDef ParentName="ANON2StandingLampBase">
@@ -215,6 +221,8 @@
         <glowColor>(117,0,217,17)</glowColor>
       </li>
     </comps>
+    <generateCommonality>0</generateCommonality>
+    <tradeTags Inherit="False" />
   </ThingDef>
   <!-- ======================== standing lamp (aqua) ======================== -->
   <ThingDef ParentName="ANON2StandingLampBase">
@@ -227,6 +235,8 @@
         <glowColor>(40,217,217,0)</glowColor>
       </li>
     </comps>
+    <generateCommonality>0</generateCommonality>
+    <tradeTags Inherit="False" />
   </ThingDef>
   <!-- ======================== standing lamp (lime) ======================== -->
   <ThingDef ParentName="ANON2StandingLampBase">
@@ -239,5 +249,7 @@
         <glowColor>(137,237,0,0)</glowColor>
       </li>
     </comps>
+    <generateCommonality>0</generateCommonality>
+    <tradeTags Inherit="False" />
   </ThingDef>
 </Defs>
