@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: couch center -->
+  <Anon2CouchCenter.label>couch center</Anon2CouchCenter.label>
+  <!-- EN: A piece of a large, soft, comfy sofa. Great for relaxation. -->
+  <Anon2CouchCenter.description>A piece of a large, soft, comfy sofa. Great for relaxation.</Anon2CouchCenter.description>
+  <!-- EN: couch corner -->
+  <Anon2CouchCorner.label>couch corner</Anon2CouchCorner.label>
+  <!-- EN: A piece of a large, soft, comfy sofa. Great for relaxation. -->
+  <Anon2CouchCorner.description>A piece of a large, soft, comfy sofa. Great for relaxation.</Anon2CouchCorner.description>
+  <!-- EN: couch corner Inverted -->
+  <Anon2CouchCornerInv.label>couch corner Inverted</Anon2CouchCornerInv.label>
+  <!-- EN: A piece of a large, soft, comfy sofa. Great for relaxation. -->
+  <Anon2CouchCornerInv.description>A piece of a large, soft, comfy sofa. Great for relaxation.</Anon2CouchCornerInv.description>
+  <!-- EN: couch left -->
+  <Anon2CouchLeft.label>couch left</Anon2CouchLeft.label>
+  <!-- EN: A piece of a large, soft, comfy sofa. Great for relaxation. -->
+  <Anon2CouchLeft.description>A piece of a large, soft, comfy sofa. Great for relaxation.</Anon2CouchLeft.description>
+  <!-- EN: couch right -->
+  <Anon2CouchRight.label>couch right</Anon2CouchRight.label>
+  <!-- EN: A piece of a large, soft, comfy sofa. Great for relaxation. -->
+  <Anon2CouchRight.description>A piece of a large, soft, comfy sofa. Great for relaxation.</Anon2CouchRight.description>
+  <!-- EN: cushioned chair -->
+  <Anon2CushionedChair.label>cushioned chair</Anon2CushionedChair.label>
+  <!-- EN: A large, soft, comfy seat. Great for relaxation and dining. -->
+  <Anon2CushionedChair.description>A large, soft, comfy seat. Great for relaxation and dining.</Anon2CushionedChair.description>
+  <!-- EN: square dining chair -->
+  <Anon2SquareDiningChair.label>square dining chair</Anon2SquareDiningChair.label>
+  <!-- EN: A comfortable and attractive chair for sitting at a table. -->
+  <Anon2SquareDiningChair.description>A comfortable and attractive chair for sitting at a table.</Anon2SquareDiningChair.description>
+</LanguageData>

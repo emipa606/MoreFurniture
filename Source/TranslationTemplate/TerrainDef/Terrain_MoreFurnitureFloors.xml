@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bed blue carpet -->
+  <CarpetBedBlue.label>bed blue carpet</CarpetBedBlue.label>
+  <!-- EN: A relaxing blue carpet to match a bed. -->
+  <CarpetBedBlue.description>A relaxing blue carpet to match a bed.</CarpetBedBlue.description>
+  <!-- EN: bed green carpet -->
+  <CarpetBedGreen.label>bed green carpet</CarpetBedGreen.label>
+  <!-- EN: A faded green carpet to match a bed. -->
+  <CarpetBedGreen.description>A faded green carpet to match a bed.</CarpetBedGreen.description>
+  <!-- EN: bed maroon carpet -->
+  <CarpetBedMaroon.label>bed maroon carpet</CarpetBedMaroon.label>
+  <!-- EN: A maroon carpet to match a bed. -->
+  <CarpetBedMaroon.description>A maroon carpet to match a bed.</CarpetBedMaroon.description>
+  <!-- EN: bed orange carpet -->
+  <CarpetBedOrange.label>bed orange carpet</CarpetBedOrange.label>
+  <!-- EN: A dull orange carpet to match a bed. -->
+  <CarpetBedOrange.description>A dull orange carpet to match a bed.</CarpetBedOrange.description>
+</LanguageData>

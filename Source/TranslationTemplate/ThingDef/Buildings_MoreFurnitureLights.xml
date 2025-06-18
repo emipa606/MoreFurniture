@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: end table (lamp) -->
+  <Anon2EndTableLight.label>end table (lamp)</Anon2EndTableLight.label>
+  <!-- EN: This small table goes well with a bed. When placed with a bed it will increase comfort slightly. Includes a lamp. -->
+  <Anon2EndTableLight.description>This small table goes well with a bed. When placed with a bed it will increase comfort slightly. Includes a lamp.</Anon2EndTableLight.description>
+  <!-- EN: royal end table (lamp) -->
+  <Anon2RoyalEndTableLight.label>royal end table (lamp)</Anon2RoyalEndTableLight.label>
+  <!-- EN: This small table goes well with a royal bed. When placed with a bed it will increase comfort. Includes a lamp. -->
+  <Anon2RoyalEndTableLight.description>This small table goes well with a royal bed. When placed with a bed it will increase comfort. Includes a lamp.</Anon2RoyalEndTableLight.description>
+  <!-- EN: standing lamp (aqua) - LEGACY -->
+  <StandingLamp_Aqua.label>standing lamp (aqua) - LEGACY</StandingLamp_Aqua.label>
+  <!-- EN: Standing lamp that lights an area in aqua. -->
+  <StandingLamp_Aqua.description>Standing lamp that lights an area in aqua.</StandingLamp_Aqua.description>
+  <!-- EN: standing lamp (lime) - LEGACY -->
+  <StandingLamp_Lime.label>standing lamp (lime) - LEGACY</StandingLamp_Lime.label>
+  <!-- EN: Standing lamp that lights an area in lime. -->
+  <StandingLamp_Lime.description>Standing lamp that lights an area in lime.</StandingLamp_Lime.description>
+  <!-- EN: standing lamp (magenta) - LEGACY -->
+  <StandingLamp_Magenta.label>standing lamp (magenta) - LEGACY</StandingLamp_Magenta.label>
+  <!-- EN: Standing lamp that lights an area in magenta. -->
+  <StandingLamp_Magenta.description>Standing lamp that lights an area in magenta.</StandingLamp_Magenta.description>
+  <!-- EN: standing lamp (orange) - LEGACY -->
+  <StandingLamp_Orange.label>standing lamp (orange) - LEGACY</StandingLamp_Orange.label>
+  <!-- EN: Standing lamp that lights an area in orange. -->
+  <StandingLamp_Orange.description>Standing lamp that lights an area in orange.</StandingLamp_Orange.description>
+  <!-- EN: standing lamp (purple) - LEGACY -->
+  <StandingLamp_Purple.label>standing lamp (purple) - LEGACY</StandingLamp_Purple.label>
+  <!-- EN: Standing lamp that lights an area in purple. -->
+  <StandingLamp_Purple.description>Standing lamp that lights an area in purple.</StandingLamp_Purple.description>
+  <!-- EN: standing lamp (yellow) - LEGACY -->
+  <StandingLamp_Yellow.label>standing lamp (yellow) - LEGACY</StandingLamp_Yellow.label>
+  <!-- EN: Standing lamp that lights an area in yellow. -->
+  <StandingLamp_Yellow.description>Standing lamp that lights an area in yellow.</StandingLamp_Yellow.description>
+</LanguageData>

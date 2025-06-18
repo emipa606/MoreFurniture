@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: dresser -->
+  <Anon2Dresser.label>dresser</Anon2Dresser.label>
+  <!-- EN: A place for colonist to store personal belongings. When placed with a bed it will increase comfort slightly. -->
+  <Anon2Dresser.description>A place for colonist to store personal belongings. When placed with a bed it will increase comfort slightly.</Anon2Dresser.description>
+  <!-- EN: end table -->
+  <Anon2EndTable.label>end table</Anon2EndTable.label>
+  <!-- EN: This small table goes well with a bed. When placed with a bed it will increase comfort slightly. -->
+  <Anon2EndTable.description>This small table goes well with a bed. When placed with a bed it will increase comfort slightly.</Anon2EndTable.description>
+  <!-- EN: royal end table -->
+  <Anon2RoyalEndTable.label>royal end table</Anon2RoyalEndTable.label>
+  <!-- EN: This small table goes well with a royal bed. When placed with a bed it will increase comfort. -->
+  <Anon2RoyalEndTable.description>This small table goes well with a royal bed. When placed with a bed it will increase comfort.</Anon2RoyalEndTable.description>
+</LanguageData>

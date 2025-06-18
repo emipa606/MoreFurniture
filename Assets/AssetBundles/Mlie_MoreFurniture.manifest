@@ -1,0 +1,97 @@
+ManifestFileVersion: 0
+CRC: 3586059432
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b97e1df2a70213857392fb3ad4cff51b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b97e1df2a70213857392fb3ad4cff51b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/TableStuff/Linked/Anon2Counter_MenuIcon.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/FurnitureBasic/Anon2OrnatePlantPot/Anon2OrnatePlantPotC.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/TableStuff/Linked/Anon2CounterFull_Atlas.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/BedroomStuff/Anon2RoyalEndTable_northm.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/SeatingStuff/Anon2CouchCornerInv_east.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/BedroomStuff/Anon2RoyalEndTableLight_southm.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/BedroomStuff/Anon2RoyalEndTable_north.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/SeatingStuff/Anon2CushionedChair_east.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/BedroomStuff/Anon2RoyalEndTable_eastm.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/BedroomStuff/Anon2RoyalEndTableLight_east.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/SeatingStuff/Anon2CouchCornerInv_south.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/BedroomStuff/Anon2RoyalEndTableLight_eastm.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/SeatingStuff/Anon2CouchCorner_north.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/SeatingStuff/Anon2CouchL_south.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/BedroomStuff/Anon2EndTableLight_eastm.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/BedroomStuff/Anon2RoyalEndTableLight_south.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/Misc/sink_east.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/TableStuff/Linked/Anon2Counter_MenuIcon_m.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/FurnitureBasic/Anon2OrnatePlantPot/Anon2OrnatePlantPotA.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/SeatingStuff/Anon2CouchC_east.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/SeatingStuff/Anon2CouchCorner_east.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/SeatingStuff/Anon2SquareChair_south.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/Misc/Anon2FileCabinet2_east.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/BedroomStuff/Anon2Dresser_north.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/BedroomStuff/Anon2EndTableLight_southm.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/SeatingStuff/Anon2CouchC_north.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/FurnitureBasic/Linked/Anon2PlantSpot_Atlas_m.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/TableStuff/Linked/Anon2Counter_Atlas.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/FurnitureBasic/Linked/Anon2PlantSpot_Blueprint_Atlas.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/BedroomStuff/Anon2EndTable_south.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/TableStuff/Anon2TableSmall_south.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/BedroomStuff/Anon2EndTableLight_northm.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/BedroomStuff/Anon2EndTableLight_south.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/BedroomStuff/Anon2RoyalEndTable_southm.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/FurnitureBasic/Linked/Anon2PlantSpot_Atlas.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/TableStuff/Anon2TableSmall_east.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/SeatingStuff/Anon2CouchCornerInv_north.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/SeatingStuff/Anon2CushionedChair_south.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/BedroomStuff/Anon2Dresser_south.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/TableStuff/Linked/Anon2Counter_Blueprint_Atlas.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/SeatingStuff/Anon2CouchR_south.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/Misc/Anon2FileCabinet2_north.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/FurnitureBasic/Anon2OrnatePlantPot/Anon2OrnatePlantPotB.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/BedroomStuff/Anon2RoyalEndTable_east.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/TableStuff/Linked/Anon2CounterFull_MenuIcon_m.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/SeatingStuff/Anon2CouchR_north.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/TableStuff/Linked/Anon2CounterFull_MenuIcon.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/TableStuff/Linked/Anon2CounterFull_Blueprint_Atlas.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/BedroomStuff/Anon2EndTableLight_east.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/Misc/sink_south.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/BedroomStuff/Anon2RoyalEndTableLight_north.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/FurnitureBasic/Anon2OrnateSquarePlantPot/Anon2OrnateSquarePlantPotB.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/TableStuff/Anon2TableTiny.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/BedroomStuff/Anon2EndTable_east.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/TableStuff/Linked/Anon2Counter_Atlas_m.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/SeatingStuff/Anon2CouchL_north.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/BedroomStuff/Anon2EndTableLight_north.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/SeatingStuff/Anon2CouchCorner_south.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/Misc/sink_north.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/TableStuff/Linked/Anon2CounterFull_Atlas_m.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/BedroomStuff/Anon2RoyalEndTable_south.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/SeatingStuff/Anon2SquareChair_east.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/SeatingStuff/Anon2CushionedChair_north.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/BedroomStuff/Anon2EndTable_north.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/FurnitureBasic/Anon2OrnatePlantPot/Anon2OrnatePlantPotE.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/FurnitureBasic/Anon2OrnateSquarePlantPot/Anon2OrnateSquarePlantPotA.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/SeatingStuff/Anon2SquareChair_north.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/SeatingStuff/Anon2CouchL_east.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/SeatingStuff/Anon2CouchR_east.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/FurnitureBasic/Anon2SquarePlantPot.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/SeatingStuff/Anon2CouchC_south.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/FurnitureBasic/Linked/Anon2PlantSpot_MenuIcon.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/FurnitureBasic/Anon2OrnatePlantPot/Anon2OrnatePlantPotD.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/FurnitureBasic/Anon2OrnateSquarePlantPot/Anon2OrnateSquarePlantPotD.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/FurnitureBasic/Anon2OrnateSquarePlantPot/Anon2OrnateSquarePlantPotC.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/BedroomStuff/Anon2RoyalEndTableLight_northm.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/BedroomStuff/Anon2Dresser_east.png
+- Assets/Data/Mlie.MoreFurniture/Textures/Things/Building/Furniture/Misc/Anon2FileCabinet2_south.png
+Dependencies: []

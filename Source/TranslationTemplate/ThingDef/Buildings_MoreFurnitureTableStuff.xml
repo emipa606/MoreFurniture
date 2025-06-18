@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Counter -->
+  <Anon2CounterA.label>Counter</Anon2CounterA.label>
+  <!-- EN: An Counter, has a large flat top. -->
+  <Anon2CounterA.description>An Counter, has a large flat top.</Anon2CounterA.description>
+  <!-- EN: Counter Full -->
+  <Anon2CounterAFull.label>Counter Full</Anon2CounterAFull.label>
+  <!-- EN: An Counter, has a large flat top. All Counter top, useful for those front walls. -->
+  <Anon2CounterAFull.description>An Counter, has a large flat top. All Counter top, useful for those front walls.</Anon2CounterAFull.description>
+  <!-- EN: table (1x1) -->
+  <Anon2TableTiny.label>table (1x1)</Anon2TableTiny.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Anon2TableTiny.description>People eat off tables when chairs are placed facing them.</Anon2TableTiny.description>
+</LanguageData>
