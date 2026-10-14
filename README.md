@@ -1,6 +1,6 @@
 # [More Furniture (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2565302299)
 
-![Image](https://i.imgur.com/buuPQel.png)
+![Image](https://img.litet.net/logos/Info.png)
 
 Update of Anonemous2, wofls mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2018490850
@@ -12,9 +12,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2020784345
 - The mods dressers and endtables will link to any bed that the vanilla dresser and endtable links to
 - The mods dressers and endtables will be added to any title-requirement that has the vanilla dresser and endtable
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://img.litet.net/logos/Notice.png)
 	
-![Image](https://i.imgur.com/Z4GOv8H.png)
+![Image](https://img.litet.net/logos/OriginalDescription.png)
 
 More Furniture is a small mod that adds about a dozen new items into Rimworld. It was created so you'd have more variety when choosing things to fill your colonist's rooms with. Originally created by Anonemous2, development continued by me. 
 
@@ -58,13 +58,13 @@ Currently supports translations into German, Polish, French, Chinese, and Russia
 If you have any problems, please let me know in the comments.
 
 
-![Image](https://i.imgur.com/PwoNOj4.png)
+![Image](https://img.litet.net/logos/ReportingIssues.png)
 
 
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
+-  Always post your log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
@@ -72,4 +72,4 @@ If you have any problems, please let me know in the comments.
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/MoreFurniture?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2565302299) | tags:  variety,  decor
+[![Image](https://img.shields.io/github/v/release/emipa606/MoreFurniture?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2565302299) | decor, variety
